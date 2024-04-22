@@ -1,0 +1,14 @@
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\bin\Debug\net6.0\debugØvelse.exe
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\bin\Debug\net6.0\debugØvelse.deps.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\bin\Debug\net6.0\debugØvelse.runtimeconfig.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\bin\Debug\net6.0\debugØvelse.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\bin\Debug\net6.0\debugØvelse.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.AssemblyInfoInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.AssemblyInfo.cs
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.csproj.CoreCompileInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\refint\debugØvelse.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\debugØvelse.genruntimeconfig.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul1\debugØvelse\debugØvelse\obj\Debug\net6.0\ref\debugØvelse.dll
