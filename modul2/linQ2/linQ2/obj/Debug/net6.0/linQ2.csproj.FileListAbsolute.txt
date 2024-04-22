@@ -1,0 +1,14 @@
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\bin\Debug\net6.0\linQ2.exe
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\bin\Debug\net6.0\linQ2.deps.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\bin\Debug\net6.0\linQ2.runtimeconfig.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\bin\Debug\net6.0\linQ2.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\bin\Debug\net6.0\linQ2.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.AssemblyInfoInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.AssemblyInfo.cs
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.csproj.CoreCompileInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\refint\linQ2.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\linQ2.genruntimeconfig.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\linQ2\linQ2\obj\Debug\net6.0\ref\linQ2.dll

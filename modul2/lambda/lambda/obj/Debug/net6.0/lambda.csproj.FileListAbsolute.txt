@@ -1,0 +1,14 @@
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\bin\Debug\net6.0\lambda.exe
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\bin\Debug\net6.0\lambda.deps.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\bin\Debug\net6.0\lambda.runtimeconfig.json
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\bin\Debug\net6.0\lambda.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\bin\Debug\net6.0\lambda.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfoInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfo.cs
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.csproj.CoreCompileInputs.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\refint\lambda.dll
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.pdb
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\lambda.genruntimeconfig.cache
+C:\Users\caspe\OneDrive\Skrivebord\softark\modul2\lambda\lambda\obj\Debug\net6.0\ref\lambda.dll
